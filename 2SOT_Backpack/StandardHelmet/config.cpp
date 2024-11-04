@@ -1,9 +1,9 @@
 class CfgPatches
 {
-	class 2SOT_Aux_Headwear_StdHelmet
+	class 2SOT_Aux_Backpack_Infantry
 	{
 		author = "Taldrian 2nd - Swords of Taldria Aux Team";
-		requiredAddons[] ={"2SOT_Aux_Headwear_Main"};
+		requiredAddons[] ={"2SOT_Aux_Backpack_Main"};
 		units[] = {""};
 		weapons[] = {""};
 	};

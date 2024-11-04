@@ -11,7 +11,7 @@ class CfgPatches
 class CfgWeapons
 {
 	class Taldrian_StdHelm;	
-	class 2SOT_H_StdHelm_Test: Taldrian_StdHelm
+	class 2SOT_StdHelm_H_Test: Taldrian_StdHelm
 	{
 		author = "Rogue771";
 		scope = 2;
